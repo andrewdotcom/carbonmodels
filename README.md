@@ -9,6 +9,8 @@ An open list of carbon models
 * (SB-GAF) Sheep & Beef GHG Accounting Framework V1.3 Aligns with CN30 protocol [https://www.piccc.org.au/Files/Tools/SB-GAFv1.3.xlsm](https://www.piccc.org.au/Files/Tools/SB-GAFv1.3.xlsm)
 * (G-GAF) Cropping GHG Accounting Framework V9.3 [https://www.piccc.org.au/Files/Tools/GrainsGreenhouseV9.3.xlsx](https://www.piccc.org.au/Files/Tools/GrainsGreenhouseV9.3.xlsx)
 * (F-GAF) Feedlot GHG Accounting Framework V2 [https://www.piccc.org.au/Files/Tools/FeedlotbeefGreenhouseV2.xlsx](https://www.piccc.org.au/Files/Tools/FeedlotbeefGreenhouseV2.xlsx)
+* Australian Farm Institute
+[http://calculator.farminstitute.org.au/login](http://calculator.farminstitute.org.au/login)
 
 ### US
 * DayCent [https://www2.nrel.colostate.edu/projects/daycent/](https://www2.nrel.colostate.edu/projects/daycent/)
